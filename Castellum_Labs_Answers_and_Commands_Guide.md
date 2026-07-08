@@ -229,4 +229,4 @@ grep -r "password" /var/www/  # search for a string recursively
 
 ---
 
-*Practice hands-on, not just theory — Castellum's practical round specifically tests whether you can DO the thing, not just describe it.* 💪
+
